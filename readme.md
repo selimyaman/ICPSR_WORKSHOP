@@ -8,13 +8,9 @@ This repository houses a selection of Jupyter notebooks that serve as core resou
 
 **Workshop Overview** 
 
-Transformers, particularly models like BERT, are gaining traction within the field of social sciences. However, there seems to be an enduring misunderstanding that these models are highly complex and hard to utilize. This workshop aims to dispel such notions by demonstrating how accessible and user-friendly these models have become, thanks to powerful open-source packages like Hugging Face Transformers.
+Transformers, particularly pre-trained models like BERT or GPT, are gaining traction in social sciences. These models are complex - yet easy to use. We'll be demonstrating how accessible and user-friendly these models have become, thanks to powerful open-source packages like Hugging Face Transformers.
 
-We will kick off the workshop with an easily graspable introduction to the concept of transfer learning, while highlighting its significance and limitations within social science applications. The heart of the workshop is an interactive session, where we'll collectively train and evaluate a Transformer for a standard political science task. The course will predominantly employ Python for demonstration, however, it's not a prerequisite for attendees to be familiar with it. I warmly encourage the participation of individuals regardless of their prior experience with Python or Transformers.
-
-Upon concluding the workshop, you will be equipped with a set of Jupyter notebooks that will empower you to train your own Transformer using your custom data for upcoming research initiatives. This interactive, practical approach is designed to provide a strong foundation and to stimulate the integration of Transformer models into your future projects.
-
-
+We will kick off the workshop with some introductry slides (see the `slides.pdf`) to the concept of transfer learning and language models. Then we'll move to the interactive session, where we'll collectively fine-tune and evaluate a Transformer for a standard political science task. We'll use Python for demonstration, however, it's not a prerequisite for attendees to be familiar with it.
 
 
 
